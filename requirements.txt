@@ -1,0 +1,12 @@
+yfinance>=0.2.40
+curl_cffi
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+tensorflow
+pyngrok
