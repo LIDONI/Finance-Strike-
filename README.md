@@ -14,8 +14,9 @@ Un modèle de **Deep Learning LSTM (Long Short-Term Memory)** est également uti
 
 ##  Aperçu de l'application
 
-![Finance Strike](Logo.jpg)
-
+<p align="center">
+  <img src="assets/Logo.jpg" alt="Finance Strike" width="300">
+</p>
 L'application Streamlit permet notamment de :
 
 *  Explorer l'évolution des cours
