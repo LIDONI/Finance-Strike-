@@ -14,7 +14,7 @@ Un modèle de **Deep Learning LSTM (Long Short-Term Memory)** est également uti
 
 ##  Aperçu de l'application
 
-![Finance Strike](assets/Gemini_Generated_Image_v7009jv7009jv700.png)
+![Finance Strike](Logo.jpg)
 
 L'application Streamlit permet notamment de :
 
