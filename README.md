@@ -14,7 +14,7 @@ Un modèle de **Deep Learning LSTM (Long Short-Term Memory)** est également uti
 
 ##  Aperçu de l'application
 
-![Finance Strike](assets/Image%201.png)
+![Finance Strike](assets/Gemini_Generated_Image_v7009jv7009jv700.png)
 
 L'application Streamlit permet notamment de :
 
@@ -35,7 +35,7 @@ Finance Strike propose plusieurs visualisations permettant d'explorer les donné
 
 ###  Analyse des séries temporelles
 
-![Analyse des séries temporelles](assets/Image%202.png)
+![Analyse des séries temporelles](assets/Image 1.png)
 
 ---
 
